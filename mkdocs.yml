@@ -1,0 +1,18 @@
+site_name: Swrlio Docs
+theme:
+  name: material
+  font:
+    text: PT Sans
+    code: PT Sans
+  logo: assets/Swrlio_Logo.svg
+  favicon: assets/swrlio-favicon.png
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/swrlio
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/swrlio/
+copyright: © 2022 Swrlio. All rights reserved.
+extra_css:
+  - stylesheets/extra.css
